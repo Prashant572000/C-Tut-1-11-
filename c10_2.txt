@@ -1,0 +1,2 @@
+We have to copy content of this file to c10_2_1.txt file
+This is the random access memory
